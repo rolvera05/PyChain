@@ -76,7 +76,9 @@ Make sure you are in the correct directory and that the file "pychain.py" is pre
 
 ## Images
 
-![Screeen Recording](Images/pychian1.png)
+
+![Screeen Recording](Images/pychain1.png)
+
 ![Screeen Recording](Images/pychain2.png)
 
 ---
